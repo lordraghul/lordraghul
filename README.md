@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### <div align="center" width="200">Hi there 👋, I am lordarghul, just a data enthusiast </div>
 
 <p align="center">
-    <a href="https://iamlordraghul.fr">
+    <a href="https://lordraghul.github.io/">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </p>
