@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     
-[🏀 NBA Draft Prediction](https://github.com/lordraghul) | [🐶 Dog Breed Classifier](https://github.com/lordraghul) | [💬 Sentiment Analysis on Reddit](https://github.com/lordraghul) | [🚀 GAN Image Optimization](https://github.com/lordraghul)
+[🏀 NBA Draft Prediction](https://github.com/lordraghul/NBA_DRAFT_MODEL) | [🐶 Dog Breed Classifier](https://github.com/lordraghul/DOG_BREED_CLASSIFIER ) | [💬 Sentiment Analysis on Reddit](https://github.com/lordraghul/SENTIMENT_ANALYSIS_REDDIT) | [🚀 GAN Image Optimization](https://github.com/lordraghul/GAN_PET_PIXEL_ENHANCER )
 --- | --- | --- | ---
 
 </div>
